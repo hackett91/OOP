@@ -1,4 +1,4 @@
-package ie.online.exercise1;
+package exercise1;
 
 public class Bird extends Animal{
 
@@ -11,7 +11,9 @@ public class Bird extends Animal{
 //	public void flying(){
 //		System.out.println(" I am flying");
 //	}
-
+public void move(){
+	System.out.println("flapping wings...");
+}
 
 
 }

@@ -15,7 +15,7 @@ public class Zoo{
 		crow = new Bird(1, 2, "male");
 		// because a bird inherits from it parent class
 		// animal it can use the eat and sleep funcitonality
-	//yesterday
+
 		crow.eat();
 		crow.sleep();
 		Chicken chick;
